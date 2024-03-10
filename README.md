@@ -1,5 +1,8 @@
 # Temperature Based Fan Speed Controller on Custom PCB
 
+## Note:
+The IoT part of this project has not been completed yet. 
+
 ## Components
 1. ### ESP8266 NodeMCU
     Used for data processing through GPIO12 and controls fan speed by varying MOSFET gate voltage through GPIO16. 
